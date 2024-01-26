@@ -6,6 +6,8 @@ labels: bug
 assignees: ixeeek
 
 ---
+Prośba, dawajcie całe pytanie, wzięte z strony, również dawajcie cale odpowiedzi - ułatwi mi to poprawe tego pytania w bazie danych jesli sugestia okaze sie sluszna :D
+
 
 # Pytanie (calosc pytania np. "Co oznacza wg kodu Q symbol QRG?"):
 
@@ -18,6 +20,3 @@ assignees: ixeeek
 
 # Wyjasnienie (dlaczego ta odpowiedz a nie inna):
 
-
-
-PS. Prośba, dawajcie całe pytanie, wzięte z strony, również dawajcie cale odpowiedzi - ułatwi mi to poprawe tego pytania w bazie danych jesli sugestia okaze sie sluszna :D
