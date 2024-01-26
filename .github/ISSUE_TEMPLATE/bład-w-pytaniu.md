@@ -7,11 +7,17 @@ assignees: ixeeek
 
 ---
 
-Pytanie (calosc pytania np. "Co oznacza wg kodu Q symbol QRG?"):
+#Pytanie (calosc pytania np. "Co oznacza wg kodu Q symbol QRG?"):
 
-Proponowana wlasciwia odpowiedz (np. "moja częstotliwość jest…"):
 
-Wyjasnienie (dlaczego ta odpowiedz a nie inna):
+#Obecna poprawna odpowiedz (ta podawana przez stronę):
+
+
+#Proponowana wlasciwia odpowiedz (np. "moja częstotliwość jest…"):
+
+
+#Wyjasnienie (dlaczego ta odpowiedz a nie inna):
+
 
 
 PS. Prośba, dawajcie całe pytanie, wzięte z strony, również dawajcie cale odpowiedzi - ułatwi mi to poprawe tego pytania w bazie danych jesli sugestia okaze sie sluszna :D
