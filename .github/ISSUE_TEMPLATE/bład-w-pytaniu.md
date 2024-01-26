@@ -7,16 +7,16 @@ assignees: ixeeek
 
 ---
 
-#Pytanie (calosc pytania np. "Co oznacza wg kodu Q symbol QRG?"):
+# Pytanie (calosc pytania np. "Co oznacza wg kodu Q symbol QRG?"):
 
 
-#Obecna poprawna odpowiedz (ta podawana przez stronę):
+# Obecna poprawna odpowiedz (ta podawana przez stronę):
 
 
-#Proponowana wlasciwia odpowiedz (np. "moja częstotliwość jest…"):
+# Proponowana wlasciwia odpowiedz (np. "moja częstotliwość jest…"):
 
 
-#Wyjasnienie (dlaczego ta odpowiedz a nie inna):
+# Wyjasnienie (dlaczego ta odpowiedz a nie inna):
 
 
 
