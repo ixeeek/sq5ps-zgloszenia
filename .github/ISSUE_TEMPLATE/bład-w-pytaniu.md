@@ -8,6 +8,8 @@ assignees: ixeeek
 ---
 Prośba, dawajcie całe pytanie, wzięte z strony, również dawajcie cale odpowiedzi - ułatwi mi to poprawe tego pytania w bazie danych jesli sugestia okaze sie sluszna :D
 
+# Przedmiot (np. "bhp"):
+
 
 # Pytanie (calosc pytania np. "Co oznacza wg kodu Q symbol QRG?"):
 
